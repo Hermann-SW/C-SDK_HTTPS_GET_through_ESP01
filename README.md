@@ -20,7 +20,7 @@ Flash SerialHttpsClient.ino Arduino sketch onto ESP01:
 
 ## Setup
 Just connect Pico 3V3/GND/GP0/GP1/3V3 to ESP01 3V3/GND/RX/TX/EN.  
-![ESP01S cabling](20210321_180703.10%.jpg)
+![ESP01S cabling](20210321_180703.10pc.jpg)
 
 ## Demo
 
