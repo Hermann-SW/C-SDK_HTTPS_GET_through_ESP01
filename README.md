@@ -16,7 +16,8 @@ make
 Then flash C-SDK_HTTPS_GET_through_ESP01.uf2 onto Pico.
 
 Flash SerialHttpsClient.ino Arduino sketch onto ESP01:  
-[https://gist.github.com/Hermann-SW/e945a78e8a460a5335058bc679f48b03](https://gist.github.com/Hermann-SW/e945a78e8a460a5335058bc679f48b03)
+[https://gist.github.com/Hermann-SW/e945a78e8a460a5335058bc679f48b03](https://gist.github.com/Hermann-SW/e945a78e8a460a5335058bc679f48b03)  
+( [How to install Arduino IDE ESP8266 support](https://github.com/esp8266/Arduino#contents) )
 
 ## Setup
 Just connect Pico 3V3/GND/GP0/GP1/3V3 to ESP01 3V3/GND/RX/TX/EN.  
